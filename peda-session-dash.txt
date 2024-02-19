@@ -1,0 +1,4 @@
+break /home/cse543-f22/Desktop/proj2/victim8.c:17
+disable $bpnum
+
+
